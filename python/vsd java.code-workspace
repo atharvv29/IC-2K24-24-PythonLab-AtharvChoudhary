@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../Users/athar/OneDrive/Desktop/vsd java"
+		},
+		{
+			"path": "../Users/athar/OneDrive/Desktop/vscode"
+		}
+	],
+	"settings": {
+		"java.debug.settings.onBuildFailureProceed": true
+	}
+}
